@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "cuit"
+echo "cuit ce matin"
